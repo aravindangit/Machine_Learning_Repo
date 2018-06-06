@@ -1,0 +1,89 @@
+study materials
+--------------
+https://likegeeks.com/python-gui-examples-tkinter-tutorial/
+
+
+to pull python functions
+for i in dir(module): print i
+
+python with selenium:
+---------------------
+https://pythonspot.com/selenium-click-button/
+
+Vidya analytics
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+
+screen scraping
+
+https://likegeeks.com/python-web-scraping/#What-is-Python-Web-Scraping
+
+NLP:
+https://likegeeks.com/nlp-tutorial-using-python-nltk/
+
+08/04/018
+
+got trough this. absolutely awesome
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+10/04/2018
+https://mubaris.com/2017/10/01/kmeans-clustering-in-python/
+https://ide.geeksforgeeks.org/index.php
+https://pythonmachinelearning.pro/data-clustering-with-k-means/
+http://madhugnadig.com/articles/machine-learning/2017/03/04/implementing-k-means-clustering-from-scratch-in-python.html
+https://stackoverflow.com/questions/37794849/efficient-and-precise-calculation-of-the-euclidean-distances
+
+
+Tensor flow
+
+https://github.com/aymericdamien/TensorFlow-Examples
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+
+https://www.quora.com/What-are-small-projects-to-build-for-a-beginner-in-Python
+
+python online terminal
+======================
+https://repl.it/@AravindanTk/ShyGracefulBraces
+
+Pandas:
+======
+https://github.com/juanfrans/notes/wiki/Basic-Pandas-Commands-(Python)
+
+Resume:
+========
+https://www.quora.com/What-things-should-be-there-in-machine-learning-resume
+
+https://pythonspot.com/selenium-click-button/
+http://www.eyalfrank.com/scraping-web-forms-with-selenium/
+https://automatetheboringstuff.com/chapter11/
+http://selenium-python.readthedocs.io/navigating.html
+https://github.com/realpython/python-scripts
+http://selenium-python.readthedocs.io/
+
+
+Portfolioes
+===========
+https://www.dataquest.io/blog/data-science-portfolio-project/
+
+https://www.dataquest.io/blog/author/vik/
+
+
+shreyan git hub:
+------------------
+https://github.com/shreyans29/thesemicolon
+
+
+Andrew NG
+
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+01/06/2018
+https://github.com/sajal2692/data-science-portfolio/tree/master/ML%20Micro%20Projects
+
+https://github.com/sajal2692/data-science-portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb
+
+
+06/06/2018
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/
+https://blog.statsbot.co/machine-learning-algorithms-183cc73197c
+https://blog.algorithmia.com/introduction-to-machine-learning/

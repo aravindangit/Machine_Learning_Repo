@@ -1,0 +1,44 @@
+some ways to import module from specific location:
+========================================================
+import sys
+sys.path.insert(0, '/path/to/application/app/folder')
+
+import file
+
+**********************
+
+
+import sys  
+sys.path.append(pathToFolderContainingScripts)  
+from scriptName import functionName #scriptName without .py extension  
+
+
+
+To do this you change this:
+
+from application.app.folder.file import func_name
+
+to this:
+
+from .application.app.folder.file import func_name
+*****************************
+
+
+sys.path.append('c:\\tools\\mydir')
+sys.path.append('..\\mytools')
+sys.path.append('c:/tools/mydir')
+sys.path.append('../mytools')
+
+**********************
+Just do simple things to import the .py file from a different folder.
+
+Let's say you have a directory like:
+
+lib/abc.py
+Then just keep an empty file in lib folder as named
+
+__init__.py
+And then use
+
+from lib.abc import <Your Module name>
+Keep the __init__.py file in every folder of the hierarchy of the import module.
